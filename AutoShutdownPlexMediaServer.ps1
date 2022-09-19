@@ -1,6 +1,6 @@
 ﻿
 
-Write-Host (Get-Date) "Plex Automatic Shutdown"
+Write-Host (Get-Date) "Auto Shutdown Plex Media Server Script"
 Write-Host (Get-Date) "By milesfrom1900"
 Write-Host (Get-Date) "https://github.com/milesfrom1900/AutoShutdownPlexMediaServer"
 Write-Host (Get-Date) "2022"
