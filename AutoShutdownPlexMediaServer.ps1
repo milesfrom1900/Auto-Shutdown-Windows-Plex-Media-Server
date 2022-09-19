@@ -7,7 +7,7 @@ Write-Host (Get-Date) "2022"
 
 $startIdle = 1          #Time after bootup before program starts checking server streaming in seconds
 $checkInterval = 300    #Time between each check in seconds
-$checkNumber = 3        #Number of consecuative checks needed for a shutdown
+$checkNumber = 3        #Number of consecutive checks needed for a shutdown
 $ShutdownWaitTime = 120 #Wait time before shutdown (time allowes for user to cancel the shutdown)
 
 Write-Host (Get-Date) "Start Idle:" $startIdle "s, Check Interval:" $checkInterval "s, Number of checks:" $checkNumber "Shutdown Timer:" $ShutdownWaitTime "s"
