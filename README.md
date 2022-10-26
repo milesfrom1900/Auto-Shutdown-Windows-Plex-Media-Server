@@ -1,5 +1,5 @@
 # Auto Shutdown Windows Plex Media Server
-As a result of current soaring energy prices and the state of societal disapprovement towards wasted energy, this script is developed to automate the shutdown process of a  Windows based PC running Plex Media Server when no active user streas are detected. Benefits of using this script include personal savings, respect from environmentalists and convenience from the automation.
+As a result of current soaring energy prices and the state of societal disapprovement towards wasted energy, this script is developed to automate the shutdown process of a  Windows based PC running Plex Media Server when no active user streams are detected. Benefits of using this script include personal savings, respect from environmentalists and convenience from the automation.
 
 This project is aimed towards users using Windows based machines since they typically are repurposed desktop computers or laptops. These systems are naturally less power efficient in idle compared to purpose built low power computers.
 
