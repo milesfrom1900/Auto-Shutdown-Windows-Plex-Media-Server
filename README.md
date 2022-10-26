@@ -8,7 +8,7 @@ The shutdown process is only activated if no users are streaming media. This is 
 
 Requirements:
 1.  Windows machine with Plex Media Server installed and running
-2.  Internet Explorer with first startup settings set (Start Internet explorer and accept terms/choose settings)
+2.  Internet Explorer with first startup settings set (Start Internet Explorer and accept terms/choose settings)
 
 Instructions
 1.  Copy file to location where it can be accessed from the Windows based Plex Media Server 
