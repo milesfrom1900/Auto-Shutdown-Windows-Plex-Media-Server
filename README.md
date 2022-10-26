@@ -15,7 +15,7 @@ Instructions
 2.  Change the scripts default program to run in PowerShell
 3.  On line 17 change "ServerIpAddress" to either the Servers Ip address (local) or "localhost"
 4.  On line 17 change "AddTokenHere" with a current Token. See more at https://support.plex.tv/articles/204059436-finding-an-authentication-token-x-plex-token/
-    (This is a temporary token, so it might change. Further develop is possible if this becomes an issue)
+    (This is a temporary token, so it might change. Further development is a possibility if this becomes an issue)
 5.  (Optional) Define parameters by changing the number, or leave as default. 
     Parameters:
       1.  startIdle         #Time (s) after bootup before program starts checking server streaming. Default: 1
